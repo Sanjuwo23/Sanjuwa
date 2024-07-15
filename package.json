@@ -1,12 +1,12 @@
 {
-"name": "newAcc",
+"name": "Sanjuwa",
 "version": "2.1.2",
-"description": "newAcc has been designed to make things easier and fun while using WhatsApp. 👨‍💻❤️",
+"description": "Sanjuwa has been designed to make things easier and fun while using WhatsApp. 👨‍💻❤️",
 "main": "start.js",
 "scripts": {
 "start": "pm2 start start.js --deep-monitoring --attach --name newAcc",
-"stop": "pm2 stop newAcc",
-"restart": "pm2 restart newAcc"
+"stop": "pm2 stop Sanjuwa",
+"restart": "pm2 restart Sanjuwa"
 },
 "dependencies": {
 "@whiskeysockets/baileys": "git+https://github.com/prabathLK/Baileys-6.0.0.git",
